@@ -1,6 +1,7 @@
 # EShop eCommerce Platform 
 
 > eCommerce platform built with the MERN stack & Redux.
+<br>Deployed [here](https://e-commerce-website-lkay.onrender.com/) on Render.</br>
 
 <img src="./frontend/public/images/screens.png">
 
